@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apineda/develop/uno/GreatApp/GreatApp.Droid/GreatApp.Droid.csproj": {}
+  },
+  "projects": {
+    "/Users/apineda/develop/uno/GreatApp/GreatApp.Droid/GreatApp.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apineda/develop/uno/GreatApp/GreatApp.Droid/GreatApp.Droid.csproj",
+        "projectName": "GreatApp.Droid",
+        "projectPath": "/Users/apineda/develop/uno/GreatApp/GreatApp.Droid/GreatApp.Droid.csproj",
+        "packagesPath": "/Users/apineda/.nuget/packages/",
+        "outputPath": "/Users/apineda/develop/uno/GreatApp/GreatApp.Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/apineda/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Uno.UniversalImageLoader": {
+              "target": "Package",
+              "version": "[1.9.33, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

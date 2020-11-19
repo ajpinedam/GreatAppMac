@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E6F65640-3752-4109-9C5A-9E0ED3E4B5EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GreatApp.macOS/Info.plist">
+    <Files>
+      <File FileName="GreatApp.macOS/GreatApp.macOS.csproj" Line="97" Column="15" />
+      <File FileName="GreatApp.macOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GreatApp" expanded="True">
+            <Node name="GreatApp.macOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GreatApp.Droid PreferredExecutionTarget="Android.HT6A50203036" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GreatApp.macOS PreferredExecutionTarget="Test1" />
+  <DisabledProjects>
+    <String>GreatApp.Skia.WPF.Host/GreatApp.Skia.Wpf.Host.csproj</String>
+    <String>GreatApp.Skia.WPF/GreatApp.Skia.WPF.csproj</String>
+    <String>GreatApp.Skia.Tizen/GreatApp.Skia.Tizen.csproj</String>
+    <String>GreatApp.Skia.Gtk/GreatApp.Skia.Gtk.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

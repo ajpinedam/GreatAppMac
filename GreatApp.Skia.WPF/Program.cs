@@ -1,0 +1,3 @@
+namespace GreatApp.Skia.Gtk
+{
+}
